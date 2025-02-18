@@ -8,7 +8,7 @@ This repository hosts the code and documentation for the capstone project titled
 - Balakrishna 
 - Vasudeva reddy
 
-  **Contents**
+**Contents**
   
 Code: Implementation of safety protocols and fraud prevention measures.
 
