@@ -10,8 +10,11 @@ This repository hosts the code and documentation for the capstone project titled
 
 - **Contents**
 Code: Implementation of safety protocols and fraud prevention measures.
+
 Data: Placeholder for relevant data files.
+
 Documentation: Supplementary project-related documents.
+
 Results: Repository for model evaluation outcomes.  
 
 **Project Description**
