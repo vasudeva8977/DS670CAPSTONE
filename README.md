@@ -6,7 +6,13 @@ This repository hosts the code and documentation for the capstone project titled
 
 **Team Members**  
 - Balakrishna 
-- Vasudeva reddy   
+- Vasudeva reddy
+
+- **Contents**
+Code: Implementation of safety protocols and fraud prevention measures.
+Data: Placeholder for relevant data files.
+Documentation: Supplementary project-related documents.
+Results: Repository for model evaluation outcomes.  
 
 **Project Description**
 The project focuses on building effective models and tools to strengthen the security of open banking platforms and reduce fraud-related vulnerabilities. It is being developed with the valuable guidance and mentorship of Professor Reda Mastouri.
